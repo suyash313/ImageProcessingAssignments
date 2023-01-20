@@ -1,0 +1,56 @@
+BULLET PROOF SKIN
+IS IT POSSIBLE?
+SUB-DERMAL BODY ARMOR (GRAPHENE)
+INTRODUCTION
+Graphene is an allotrope of carbon in the form of a single layer of atoms in a two-dimensional hexagonal lattice in which one atom forms each vertex. It is the basic structural element of other allotropes, including graphite, charcoal, carbon nanotubes and fullerenes. It can also be considered as an indefinitely large aromatic molecule, the ultimate case of the family of flat polycyclic aromatic hydrocarbons.
+Graphene has a unique set of properties which set it apart from other materials. In proportion to its thickness, it is about 100 times stronger than the strongest steel. It conducts heat and electricity very efficiently and is nearly transparent. Graphene also shows a large and nonlinear diamagnetism, even greater than graphite, and can be levitated by Nd-Fe-B magnets. Researchers have identified the bipolar transistor effect, ballistic transport of charges and large quantum oscillations in the material.
+Scientists have theorized about graphene for decades. It has likely been unknowingly produced in small quantities for centuries, through the use of pencils and other similar applications of graphite. The material was later rediscovered, isolated and characterized in 2004 by Andre Geim and Konstantin Novoselov at the University of Manchester. High-quality graphene proved to be surprisingly easy to isolate, making more research possible. The global market for graphene is reported to have reached $9 million by 2012, with most of the demand from research and development in semiconductor, electronics, battery energy and composites.
+
+Mechanical strength
+The carbon–carbon bond length in graphene is about 0.142 nanometres. Graphene sheets stack to form graphite with an interplanar spacing of 0.335 nm.
+Graphene is the strongest material ever tested, with an intrinsic tensile strength of 130 GPa and a Young's modulus (stiffness) of 1 TPa (150000000 psi). The Nobel announcement illustrated this by saying that a 1 square meter graphene hammock would support a 4 kg cat but would weigh only as much as one of the cat's whiskers, at 0.77 mg(about 0.001% of the weight of 1 m2 of paper).
+Therefore it’s a very strong material and it’s very light.
+
+
+
+Fracture toughness
+In 2014, researchers from Rice University and the Georgia Institute of Technology have indicated that despite its strength, graphene is also relatively brittle, with a fracture toughness of about 4 MPa√m.This indicates that imperfect graphene is likely to crack in a brittle manner like ceramic materials, as opposed to many metallic materials which tend to have fracture toughnesses in the range of 15–50 MPa/m. Later in 2014, the Rice team announced that graphene showed a greater ability to distribute force from an impact than any known material, ten times that of steel per unit weight. The force was transmitted at 22.2 kilometres per second (13.8 mi/s). 
+Self-healing properties
+One interesting property of graphene is self-healing. This means that if we remove a carbon atom from anywhere within the graphene sheet, and then expose the sheet to carbon atoms or some carbon-containing molecules, one of them will snap into place perfectly, filling the hole created by the removed carbon atom, and fitting into the hexagonal pattern. The ability to self-heal is of great importance for nanotechnology since a single stray ion can punch a hole in the nanostructure, rendering it useless. If the nanostructure can self-heal, then it might be able to withstand the harsh environmental effects.
+And if damaged it might easily heal itself since our body is filled with carbon atoms.
+
+
+SOME POINTS TO NOTICE:
+•	Tensile strength of Kevlar, the most widely used bullet proof vest is 3750 MPa whereas that of steel is 650 MPa whereas that of Graphene is an astounding 130,000 MPa.
+•	Comparing the weight of steel, Kevlar and graphene we find that covering an entire football field with a single layer of graphene it’d weigh less than a gram.
+•	Since graphene is only one molecule thick we’d require 3 million layer of it just to get a width of 1 millimetre or basically the width of the tip of a pencil.
+•	Experiments have been conducted where micro pellets were shot at a 100 nanometres (for reference it is the same as the diameter of HIV virus) thick layer of graphene at the speed of 3 km/s which is 3 times the speed of bullets fired from an AK-47 and it was found that the layer was able to stop those pellets.
+•	Tests have shown that even very thin layer of graphene works 10x better than thick steel armours.
+•	It is very very light and also provides unlimited flexibility therefore the body won’t show any sort of restriction in movement if graphene was implanted inside the body.
+•	Since graphene is made up of a perfectly uniform carbon structure it is almost totally non-reactive. Therefore if graphene comes in contact with the water in our body it’s not going to dissolve.
+•	Graphene is considered to be the best conductor ever. It might stop those bullets but it’s certainly not something you’d want to wear in a thunderstorm. 
+	
+WHAT ELSE WE COULD’VE USED
+ NANOCELLULOSE
+Derived from wood, algae and also bacteria. Purified all the way up to the molecular level and then pressed immensely to get a structure which is 8 times stronger than steel more flexible than plastic and when thin it is transparent. Can be used to make bullet proof vests and can be implanted under the skin since it’s made of cellulose and therefore biologically safe but it’s too natural meaning that it may easily react with whatever present in our body. Since our body is made up of 70% water and cellulose can easily absorb water since it’s extremely porous. Nanocellulose when exposed to water get swollen up 100’s of times  therefore the implant will get swollen up to a point where either our body will expand and become bloated and wobbly or the implant will simply burst and will therefore affect the visceral organs inside our body. Therefore it’s not a good idea.
+
+IMPLANTING GRAPHENE IN OUR BODY
+The one atom-thick latticed carbon material has been proposed as a way of revolutionizing everything from upload speeds to sports equipment. And if we could find a way to implant the stuff, well, clearly we’d all become an unstoppable army of Robocop – or at the very least, we’d get better at monitoring our insides and delivering drugs to the right spots.
+Bionics has long been toward the top of the list of potential life-changing graphene applications, but actually getting the substance to play nice with our sensitive human tissue is another issue entirely. The primary problem is heat. The impact of bullets will cause the graphene to heat up likely due to friction and will result in frying the surrounding soft tissue in the process.
+In a recent simulation by teams from MIT and Beijing’s Tsinghua University, however, scientists believe they’ve hit upon a solution: water. A thin wall of the stuff separating graphene from tissue could save surrounding cells from a deep fried death.
+They call it the “sandwich” model”
+Here’s MIT scientist Zhao Qin, “In the body, water is everywhere, and the outer surface of membranes will always like to interact with water, so you cannot totally remove it. So we came up with a sandwich model for graphene, water, and membrane that is a crystal clear system for seeing the thermal conductance between these two materials.”
+
+OTHER BIOLOGICAL APPLICATIONS 
+Graphene- and graphene oxide-based nanomaterials have gained broad interests in research because of their unique physiochemical properties. The 2D allotropic structure allows it to be used in various biological fields. The biomedical applications of graphene and its composite include its use in gene and small molecular drug delivery. It is further used for bio functionalization of protein, in anticancer therapy, as an antimicrobial agent for bone and teeth implantation. The biocompatibility of the newly synthesized nanomaterials allows its substantial use in medicine and biology. The current review summarizes the chemical structure and biological application of graphene in various fields.
+Cancer treatment
+Graphene is used to detect early stage of cancer cells. Graphene oxide restricts the formation of tumour sphere effectively in various cell lines that include ovarian, pancreatic, breast, lung cancers and glioblastoma. It was reported that in cancer cells, Graphene oxide induces the responses of toll-like receptors and can cause autophagy and antitumor effects. Graphene oxide when injected into mice having CT26 colon cancer cells not only prevent the progression of tumour, but also induces autophagy, immune responses and cell death.
+Gene delivery
+Gene delivery is a method of introducing foreign DNA into the cell. It is an alternative approach to cure various genetic diseases. Modified GO is used for gene delivery purposes. Polyethylenimine (PEI) modifies the surface of GO sheets and thus makes it ready for cellular gene delivery through covalent conjugation and electrostatic interaction for plasmid DNA (pDNA) stacking.
+Differentiation of stem cells
+A noble platform of development for growth and differentiation of neuronal stem cell is an important norm for autologous tissue engineering and cell therapy to treat neurodegenerative diseases as well as neuronal disorders. Graphene is utilized for stem cells culture. Recently, human mesenchymal stem cell neuronal differentiation (hMSCs) was seen on the surface of graphene, as it supports a cell-adhesive coat bearing electrifying coupling impact for stimulation of stem cell differentiation. Likewise, graphene additionally improved the differentiation of bones in comparison to regular growth factor. Graphene provides an environment in which mesenchymal stem cells of a human (hMSCs) are organized in a 3D spheroids manner, essential to produce neurons from hMSCs. The monolayer of graphene regulates human mesenchymal stem cells (hMSCs) growth and development.
+Future uses of graphene
+The nanomaterial based on graphene has been widely used in nonmedical fields since the last decade. Recently from a number of publications, we have evidence that graphene is attracting the attention of biomedical scientists. The wide range of applications in the delivery of gene/drug has exploited various properties of graphene such as π–π stacking and the loading of small molecular drugs on two-dimensional plane surface by hydrophobic interactions. GO surfaces enable possibilities for covalently linked and chemically assorted small molecules and similar proteins. Although the research on graphene and its derivatives is at its early stage, in the upcoming days it will provide wide applications for biomaterial science and regenerative medicines.
+
+
+
